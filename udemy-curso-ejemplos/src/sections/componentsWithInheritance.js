@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+// ¡ESTO ES UNA MALA PRACTICA Y SOLO ES PARA VER COMO FUNCIONARIA!
+
 class Button extends Component {
   constructor (props) {
     super(props)
