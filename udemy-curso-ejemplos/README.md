@@ -33,7 +33,7 @@ Abre el archivo `App.js` y sigue las instrucciones que se indican para cargar lo
 - [render](./src/sections/life-cycle/render.js)
 - [Ejemplo de Ciclo de Actualización](./src/sections/life-cycle/ejemploCicloDeActualizacion.js)
 
-### Buenas prácticas
+### Buenas prácticas
 - [Composición de componentes](./src/sections/componentsWithComposition.js)
 - [Componentes usando herencia (ejemplo de mala práctica)](./src/sections/componentsWithInheritance.js)
 - [Patrón contenedor contenido](./src/sections/container-component)
