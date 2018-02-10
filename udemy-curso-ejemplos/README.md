@@ -1,7 +1,7 @@
 
 # Código fuente del curso Aprendiendo React
 
-## Hacer funcionar el proyecto
+## Hacer funcionar el proyecto
 ```
 npm install
 npm start
@@ -20,10 +20,10 @@ Abre el archivo `App.js` y sigue las instrucciones que se indican para cargar lo
 - [Ejemplo de Contador con clicks](./src/ContadorApp.js)
 - [Ejemplo de formulario](./src/sections/forms.js)
 
-### Children y PropTypes
+### Children y PropTypes
 - [Usando la prop especial children](./src/sections/children.js)
 
-### Ciclo de vida de los componentes
+### Ciclo de vida de los componentes
 - [constructor](./src/sections/life-cycle/constructor.js)
 - [componentDidMount](./src/sections/life-cycle/componentDidMount.js)
 - [Utilizando fetch en el componentDidMount](./src/sections/fetch-example.js)
