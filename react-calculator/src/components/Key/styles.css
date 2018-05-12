@@ -1,0 +1,23 @@
+.key {
+    background: #555;
+    border: 5px solid #1c191c;
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+    font-size: 32px;
+    height: 80px;
+    outline: 0;
+    text-align: center;
+}
+
+.key--operator {
+    background: darkorange;
+}
+
+.key--operator:focus {
+    background: orange;
+}
+
+.key:active {
+    box-shadow: inset 0px 0px 80px 0px rgba(0, 0, 0, 0.25);
+}
