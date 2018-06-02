@@ -2,7 +2,7 @@
 
 Un buscador de películas creado con **React** gracias a la API de OMDb (The Open Movie Database)
 
-![preview](preview.png)
+![preview](https://github.com/didaquis/search-movies-react/raw/master/preview.png)
 
 
 ## Sobre el proyecto
