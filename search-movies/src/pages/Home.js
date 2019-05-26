@@ -13,7 +13,7 @@ export class Home extends Component {
 
   _renderResults () {
     return this.state.results.length === 0
-      ? <p>Sorry! 😞 Results not found!</p>
+      ? <p>Sorry! <span aria-label='sad-face'  role='img'>😞</span> Results not found!</p>
       : <MoviesList movies={this.state.results} />
   }
 
