@@ -7,7 +7,7 @@
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
     "react-router-dom": "4.3.1",
-    "react-scripts": "1.0.17"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
