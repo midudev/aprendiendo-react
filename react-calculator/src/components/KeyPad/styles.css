@@ -1,5 +1,0 @@
-.keyPad {
-    display: grid;
-    grid-auto-flow: dense;
-    grid-template-columns: 25% 25% 25% 25%;
-}
