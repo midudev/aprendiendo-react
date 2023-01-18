@@ -11,4 +11,5 @@ Curso para aprender **React** basado en proyectos.
 ## Proyectos
 
 - 01: [Twitter Follow Card](projects/01-twitter-follow-card/)
-- 02: Próximamente en https://twitch.tv/midudev
+- 02: [Tic Tac Toe](projects/02-tic-tac-toe/)
+- 03: Próximamente en https://twitch.tv/midudev
