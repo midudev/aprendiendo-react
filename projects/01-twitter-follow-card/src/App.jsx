@@ -27,8 +27,6 @@ const users = [
 ]
 
 export function App () {
-  const [state, setState] = useState(0)
-
   return (
     <section className="App">
       {
@@ -42,7 +40,6 @@ export function App () {
           </TwitterFollowCard>
         ))
       }
-      <button onClick={() => setState(state + 1)}>count</button>
     </section>
   )
 }
