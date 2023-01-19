@@ -27,7 +27,7 @@ const FollowMouse = () => {
   const [currentTime, setCurrentTime] = useState(DURATION_GAME)
   const [score, setScore] = useState(0)
   const [position, setPosition] = useState({ x: 0, y: 0 })
-  const [boxPosition, setBoxPosition] = useState(getRandomPosition)
+  const [boxPosition, setBoxPosition] = useState(getRandomPosition())
 
   const handleClickStart = () => {
     if (!start) {
