@@ -16,3 +16,42 @@
   border-color: transparent;
   cursor: default;
 }
+
+.winner {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  display: grid;
+  place-items: center;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.winner .text {
+  background: #111;
+  height: 300px;
+  width: 320px;
+  border: 2px solid #eee;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.winner .description {
+  font-size: 1.25rem;
+  margin-bottom: 0;
+}
+
+.winner .win {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0 auto;
+  width: fit-content;
+  display: flex;
+  gap: 15px;
+  padding: 0.5rem 1rem;
+}

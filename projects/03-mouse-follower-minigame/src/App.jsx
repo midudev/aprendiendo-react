@@ -1,17 +1,25 @@
+import confetti from 'canvas-confetti'
 import { useEffect, useState } from 'react'
+
 import { DURATION_GAME } from './constants'
+import { WinnerModal } from './components/WinnerModal'
 
 import './App.css'
 
 const FollowMouse = () => {
   const [start, setStart] = useState(false)
+  const [showModalScore, setShowModalScore] = useState(false)
   const [currentTime, setCurrentTime] = useState(DURATION_GAME)
+  const [score, setScore] = useState(0)
   const [position, setPosition] = useState({ x: 0, y: 0 })
 
   const handleClickStart = () => {
     if (!start) {
       setStart(true)
     }
+  }
+  const handleHideScore = () => {
+    setShowModalScore(false)
   }
 
   useEffect(() => {
@@ -21,7 +29,9 @@ const FollowMouse = () => {
       intervalId = setInterval(() => {
         setCurrentTime((prevTime) => {
           if (prevTime === 0) {
+            confetti() // -> Should be here?????? 🤔
             setStart(false) // -> Should be here?????? 🤔
+            setShowModalScore(true) // -> Should be here?????? 🤔
 
             return DURATION_GAME
           }
@@ -85,6 +95,13 @@ const FollowMouse = () => {
           Empezar a jugar
         </button>
       </div>
+
+      {showModalScore && (
+        <WinnerModal
+          onCloseModal={handleHideScore}
+          score={score}
+        />
+      )}
     </>
   )
 }
