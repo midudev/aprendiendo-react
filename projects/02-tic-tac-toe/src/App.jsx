@@ -58,8 +58,8 @@ function App () {
 
   return (
     <main className='board'>
-      <h1>Tic tac toe</h1>
-      <button onClick={resetGame}>Reset del juego</button>
+      <h1>Tic Tac Toe</h1>
+      <button onClick={resetGame}>Reiniciar el juego</button>
       <section className='game'>
         {
           board.map((square, index) => {

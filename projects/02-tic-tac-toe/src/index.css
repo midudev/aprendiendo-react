@@ -1,12 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 :root {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: 16px;
+  font-family: 'Fredericka the Great', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 18px;
   line-height: 24px;
   font-weight: 400;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #172727;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -37,7 +38,9 @@ body {
 
 .board h1 {
   color: #eee;
+  font-size: 2.5rem;
   margin-bottom: 16px;
+  font-family: 'Fredericka the Great';
 }
 
 .board button {
@@ -54,7 +57,7 @@ body {
 }
 
 .board button:hover {
-  background: #eee;
+  background: #7c9191;
   color: #222;
 }
 
@@ -83,7 +86,7 @@ body {
 
 .square.is-selected {
   color: #fff;
-  background: #09f;
+  background: #627b7b;
 }
 
 .winner {
