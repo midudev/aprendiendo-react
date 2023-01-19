@@ -55,3 +55,13 @@
   gap: 15px;
   padding: 0.5rem 1rem;
 }
+
+.box {
+  background-color: rgb(200 200 200);
+  border-radius: 50px;
+  height: var(--size);
+  left: var(--pos-x);
+  position: fixed;
+  top: var(--pos-y);
+  width: var(--size);
+}
