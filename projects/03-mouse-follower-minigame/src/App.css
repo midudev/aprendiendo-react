@@ -1,0 +1,18 @@
+.menu {
+  /**/
+}
+
+.score {
+  font-size: 3rem;
+  line-height: 1;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.action {
+  display: inline-block;
+}
+.action:disabled {
+  border-color: transparent;
+  cursor: default;
+}
