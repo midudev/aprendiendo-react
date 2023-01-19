@@ -5,6 +5,7 @@ import {
   BOX_RANDOM_POSITON_TIME,
   BOX_SIZE,
   DURATION_GAME,
+  POINT_VALUE,
 } from './constants'
 import { WinnerModal } from './components/WinnerModal'
 
@@ -36,6 +37,12 @@ const FollowMouse = () => {
   }
   const handleHideScore = () => {
     setShowModalScore(false)
+    setScore(0)
+  }
+  const onHoverBox = () => {
+    if (start) {
+      setScore((prevScore) => prevScore + POINT_VALUE)
+    }
   }
 
   useEffect(() => {
@@ -112,6 +119,7 @@ const FollowMouse = () => {
           '--pos-y': `${boxPosition.y}px`,
           display: start ? 'block' : 'none',
         }}
+        onMouseEnter={onHoverBox}
       />
 
       <div

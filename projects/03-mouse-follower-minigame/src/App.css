@@ -59,9 +59,14 @@
 .box {
   background-color: rgb(200 200 200);
   border-radius: 50px;
+  box-shadow: 0 0 0 4px #242424, 0 0 0 8px rgb(200 200 200 / 0.7);
   height: var(--size);
   left: var(--pos-x);
   position: fixed;
   top: var(--pos-y);
+  transition: box-shadow 0.2s ease-in-out;
   width: var(--size);
+}
+.box:hover {
+  box-shadow: none;
 }
