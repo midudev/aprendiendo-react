@@ -8,13 +8,13 @@ Curso para aprender **React** basado en proyectos.
 **[Todos los miércoles a las 18PM en Twitch](https://twitch.tv/midudev)**
 </div>
 
-## Videos con las clases
+## 📹 Videos con las clases
 
 - 01: [Introducción a React](https://www.twitch.tv/videos/1704282150?filter=archives&sort=time)
 - 02: [React Hooks: useState y useEffect](https://www.twitch.tv/videos/1711159530?filter=archives&sort=time)
 - 03: [Fetching de datos y Custom Hooks](https://www.twitch.tv/videos/1718103492?filter=archives&sort=time)  
 
-## Proyectos
+## ⌨️ Proyectos
 
 - 01: [Twitter Follow Card](projects/01-twitter-follow-card/)
 - 02: [Tic Tac Toe](projects/02-tic-tac-toe/)
