@@ -22,4 +22,5 @@ Curso para aprender **React** basado en proyectos.
 - 02: [Tic Tac Toe](projects/02-tic-tac-toe/)
 - 03: [Mouse Follower](projects/03-mouse-follower)
 - 04: [Prueba técnica](projects/04-react-prueba-tecnica)
-- 05: Próximamente en https://twitch.tv/midudev
+- 05: [Prueba técnica utilizando una API](projects/05-react-buscador-peliculas)
+- 06: Próximamente en https://twitch.tv/midudev
