@@ -15,7 +15,8 @@ Curso para aprender **React** basado en proyectos.
 - 03: [Fetching de datos y Custom Hooks](https://www.twitch.tv/videos/1718103492?filter=archives&sort=time)
 - 04: [Prueba técnica para Trainee](https://www.twitch.tv/videos/1718103492)
 - 05: [React Hooks: useRef, useMemo, useCallback](https://www.twitch.tv/videos/1732102325?filter=archives&sort=time)
-- 06: Próximamente en https://twitch.tv/midudev
+- 06: [React Hooks: useContext, useReducer, useId](https://www.twitch.tv/videos/1738955695)
+- 07: Próximamente en https://twitch.tv/midudev
 
 ## ⌨️ Proyectos
 
@@ -24,5 +25,5 @@ Curso para aprender **React** basado en proyectos.
 - 03: [Mouse Follower](projects/03-mouse-follower)
 - 04: [Prueba técnica](projects/04-react-prueba-tecnica)
 - 05: [Prueba técnica de buscador utilizando una API](projects/05-react-buscador-peliculas)
-- 06: [Prueba Técnica de ¡Un carrito de la compra!](projects/06-shopping-cart)
+- 06: [Creación de un ecommerce con carrito de compras](projects/06-shopping-cart)
 - 07: Próximamente en https://twitch.tv/midudev
