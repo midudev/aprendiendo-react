@@ -26,4 +26,5 @@ Curso para aprender **React** basado en proyectos.
 - 04: [Prueba técnica con Promesas, fetching y testing E2E](projects/04-react-prueba-tecnica)
 - 05: [Prueba técnica con formularios, buscador utilizando una API](projects/05-react-buscador-peliculas)
 - 06: [Creación de un ecommerce con carrito de compras](projects/06-shopping-cart)
-- 07: Próximamente en https://twitch.tv/midudev
+- 07: [Creación de un React Router desde cero](projects/07-midu-router)
+- 08: Próximamente en https://twitch.tv/midudev
