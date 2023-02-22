@@ -22,7 +22,7 @@ Curso para aprender **React** basado en proyectos.
 - 01: [Twitter Follow Card](projects/01-twitter-follow-card/)
 - 02: [Tic Tac Toe](projects/02-tic-tac-toe/)
 - 03: [Mouse Follower](projects/03-mouse-follower)
-- 04: [Prueba técnica](projects/04-react-prueba-tecnica)
-- 05: [Prueba técnica de buscador utilizando una API](projects/05-react-buscador-peliculas)
+- 04: [Prueba técnica con Promesas, fetching y testing E2E](projects/04-react-prueba-tecnica)
+- 05: [Prueba técnica con formularios, buscador utilizando una API](projects/05-react-buscador-peliculas)
 - 06: [Creación de un ecommerce con carrito de compras](projects/06-shopping-cart)
 - 07: Próximamente en https://twitch.tv/midudev
