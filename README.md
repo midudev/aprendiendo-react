@@ -16,7 +16,8 @@ Curso para aprender **React** basado en proyectos.
 - 04: [React Hooks: useRef, useMemo, useCallback](https://www.twitch.tv/videos/1732102325?filter=archives&sort=time)
 - 05: [React Hooks: useContext, useReducer, useId](https://www.twitch.tv/videos/1738955695)
 - 06: [React Router + Lazy Loading](https://www.twitch.tv/videos/1745844783?filter=archives&sort=time)
-- 07: Próximamente en https://twitch.tv/midudev
+- 07: [React + TypeScript (Día 01): props y state)](https://www.twitch.tv/videos/1752654224?filter=archives&sort=time)
+- 08: Próximamente en https://twitch.tv/midudev
 
 ## ⌨️ Proyectos
 
@@ -27,4 +28,5 @@ Curso para aprender **React** basado en proyectos.
 - 05: [Prueba técnica con formularios, buscador utilizando una API](projects/05-react-buscador-peliculas)
 - 06: [Creación de un ecommerce con carrito de compras](projects/06-shopping-cart)
 - 07: [Creación de un React Router desde cero](projects/07-midu-router)
-- 08: Próximamente en https://twitch.tv/midudev
+- 08: [Creación de una TodoList App desde cero con TypeScript](projects/08-todo-app-ts)
+- 09: Próximamente en https://twitch.tv/midudev
