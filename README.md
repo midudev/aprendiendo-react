@@ -28,5 +28,5 @@ Curso para aprender **React** basado en proyectos.
 - 05: [Prueba técnica con formularios, buscador utilizando una API](projects/05-react-buscador-peliculas)
 - 06: [Creación de un ecommerce con carrito de compras](projects/06-shopping-cart)
 - 07: [Creación de un React Router desde cero](projects/07-midu-router)
-- 08: [Creación de una TodoList App desde cero con TypeScript](projects/08-todo-app-ts)
+- 08: [Crear un Google Translate con ChatGPT y TypeScript](projects/08-google-translate-clone/)
 - 09: Próximamente en https://twitch.tv/midudev
