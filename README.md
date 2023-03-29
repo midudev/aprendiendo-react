@@ -17,7 +17,8 @@ Curso para aprender **React** basado en proyectos.
 - 05: [React Hooks: useContext, useReducer, useId](https://www.twitch.tv/videos/1738955695)
 - 06: [React Router + Lazy Loading](https://www.twitch.tv/videos/1745844783?filter=archives&sort=time)
 - 07: [React + TypeScript (Día 01): props y state)](https://www.twitch.tv/videos/1752654224?filter=archives&sort=time)
-- 08: Próximamente en https://twitch.tv/midudev
+- 08: [Clon de Google Translate con TypeScript y ChatGPT](https://www.twitch.tv/videos/1779023294)
+- 09: Próximamente en https://twitch.tv/midudev
 
 ## ⌨️ Proyectos
 
@@ -29,4 +30,5 @@ Curso para aprender **React** basado en proyectos.
 - 06: [Creación de un ecommerce con carrito de compras](projects/06-shopping-cart)
 - 07: [Creación de un React Router desde cero](projects/07-midu-router)
 - 08: [Creación de una TodoList App desde cero con TypeScript](projects/08-todo-app-ts)
-- 09: Próximamente en https://twitch.tv/midudev
+- 09: [Creación de un Clon de Google Translate con TypeScript usando la API de ChatGPT](projects/08-google-translate-clone)
+- 10: Próximamente en https://twitch.tv/midudev
