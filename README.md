@@ -29,4 +29,5 @@ Curso para aprender **React** basado en proyectos.
 - 06: [Creación de un ecommerce con carrito de compras](projects/06-shopping-cart)
 - 07: [Creación de un React Router desde cero](projects/07-midu-router)
 - 08: [Crear un Google Translate con ChatGPT y TypeScript](projects/08-google-translate-clone/)
-- 09: Próximamente en https://twitch.tv/midudev
+- 09: [Crear un CRUD con Redux Toolkit y TypeScript](projects/09-crud-react-redux/)
+- 10: Próximamente en https://twitch.tv/midudev
