@@ -13,7 +13,7 @@ Curso para aprender **React** basado en proyectos.
 - 01: [Introducción a React](https://www.youtube.com/watch?v=7iobxzd_2wY)
 - 02: [React Hooks: useState y useEffect](https://www.youtube.com/watch?v=qkzcjwnueLA&feature=youtu.be)
 - 03: [Prueba técnica con lo aprendido](https://www.youtube.com/watch?v=XYpadB4VadY&feature=youtu.be)
-- 04: Fetching de datos y Custom Hooks: Pendiente de subir
+- 04: [Fetching de datos y Custom Hooks](https://youtu.be/x-LcbVw99o8)
 - 05: React Hooks: useRef, useMemo, useCallback: Pendiente de subir
 - 06: [React Hooks: useContext, useReducer, useId](https://www.twitch.tv/videos/1738955695)
 - 07: [React Router + Lazy Loading](https://www.twitch.tv/videos/1745844783?filter=archives&sort=time)
