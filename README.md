@@ -12,13 +12,14 @@ Curso para aprender **React** basado en proyectos.
 
 - 01: [Introducción a React](https://www.youtube.com/watch?v=7iobxzd_2wY)
 - 02: [React Hooks: useState y useEffect](https://www.youtube.com/watch?v=qkzcjwnueLA&feature=youtu.be)
-- 03: Fetching de datos y Custom Hooks: Pendiente de subir
-- 04: React Hooks: useRef, useMemo, useCallback: Pendiente de subir
-- 05: [React Hooks: useContext, useReducer, useId](https://www.twitch.tv/videos/1738955695)
-- 06: [React Router + Lazy Loading](https://www.twitch.tv/videos/1745844783?filter=archives&sort=time)
-- 07: [React + TypeScript (Día 01): props y state)](https://www.twitch.tv/videos/1752654224?filter=archives&sort=time)
-- 08: [React + TypeScript + ChatGPT](https://www.twitch.tv/videos/1779023294)
-- 09: [React Redux Toolkit + Rome Tools](https://www.twitch.tv/videos/1785418662)
+- 03: [Prueba técnica con lo aprendido](https://www.youtube.com/watch?v=XYpadB4VadY&feature=youtu.be)
+- 04: Fetching de datos y Custom Hooks: Pendiente de subir
+- 05: React Hooks: useRef, useMemo, useCallback: Pendiente de subir
+- 06: [React Hooks: useContext, useReducer, useId](https://www.twitch.tv/videos/1738955695)
+- 07: [React Router + Lazy Loading](https://www.twitch.tv/videos/1745844783?filter=archives&sort=time)
+- 08: [React + TypeScript (Día 01): props y state)](https://www.twitch.tv/videos/1752654224?filter=archives&sort=time)
+- 09: [React + TypeScript + ChatGPT](https://www.twitch.tv/videos/1779023294)
+- 10: [React Redux Toolkit + Rome Tools](https://www.twitch.tv/videos/1785418662)
 
 ## ⌨️ Proyectos
 
