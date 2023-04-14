@@ -25,14 +25,14 @@ Curso para aprender **React** basado en proyectos.
 ## ⌨️ Proyectos y código
 
 | Número | Proyecto | Código | Web |
-| --- | --- | --- | --- |
-| 01 | Twitter Follow Card | [Ver el código](projects/01-twitter-follow-card/) | Link |
-| 02 | Tic Tac Toe | [Ver el código](projects/02-tic-tac-toe/) | Link |
-| 03 | Mouse Follower | [Ver el código](projects/03-mouse-follower) | Link |
-| 04 | Prueba técnica con Promesas, fetching y testing E2E | [Ver el código](projects/04-react-prueba-tecnica) | Link |
-| 05 | Prueba técnica con formularios, buscador utilizando una API | [Ver el código](projects/05-react-buscador-peliculas) | Link |
-| 06 | Creación de un ecommerce con carrito de compras | [Ver el código](projects/06-shopping-cart) | Link |
-| 07 | Creación de un React Router desde cero | [Ver el código](projects/07-midu-router) | Link |
-| 08 | Crear un Google Translate con ChatGPT y TypeScript | [Ver el código](projects/08-google-translate-clone/) | Link |
-| 09 | Crear un CRUD con Redux Toolkit y TypeScript | [Ver el código](projects/09-crud-redux/) | Link |
-| 10 | Prueba Técnica con TypeScript y React | [Ver el código](projects/10-typescript-prueba-tecnica/) | Link |
+| --- | --- | --- | --- |
+| `01` | Twitter Follow Card | [Ver código fuente](projects/01-twitter-follow-card/) | [Ver web](#) |
+| `02` | Tic Tac Toe | [Ver código fuente](projects/02-tic-tac-toe/) | [Ver web](#) |
+| `03` | Mouse Follower | [Ver código fuente](projects/03-mouse-follower) | [Ver web](#) |
+| `04` | Prueba técnica con Promesas, fetching y testing E2E | [Ver código fuente](projects/04-react-prueba-tecnica) | [Ver web](#) |
+| `05` | Prueba técnica con formularios, buscador utilizando una API | [Ver código fuente](projects/05-react-buscador-peliculas) | [Ver web](#) |
+| `06` | Creación de un ecommerce con carrito de compras | [Ver código fuente](projects/06-shopping-cart) | [Ver web](#) |
+| `07` | Creación de un React Router desde cero | [Ver código fuente](projects/07-midu-router) | [Ver web](#) |
+| `08` | Crear un Google Translate con ChatGPT y TypeScript | [Ver código fuente](projects/08-google-translate-clone/) | [Ver web](#) |
+| `09` | Crear un CRUD con Redux Toolkit y TypeScript | [Ver código fuente](projects/09-crud-redux/) | [Ver web](#) |
+| `10` | Prueba Técnica con TypeScript y React | [Ver código fuente](projects/10-typescript-prueba-tecnica/) | [Ver web](#) |
