@@ -1,6 +1,6 @@
 import { ChatCompletionRequestMessageRoleEnum, Configuration, OpenAIApi } from 'openai'
 import { SUPPORTED_LANGUAGES } from '../constants'
-import { type FromLanguage, type Language } from '../types.d'
+import { type FromLanguage, type Language } from '../types'
 
 // NO PUBLIQUES ESTO O SE COLARÁ TU API KEY EN EL CLIENTE
 // ESTO LO HACEMOS PORQUE NOS ESTAMOS ENFOCANDO EN ESTE CURSO

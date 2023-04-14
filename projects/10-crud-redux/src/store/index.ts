@@ -1,6 +1,6 @@
 import { configureStore, type Middleware } from "@reduxjs/toolkit";
+import { toast } from 'sonner';
 import usersReducer, { rollbackUser } from "./users/slice";
-import { toast } from 'sonner'
 
 const persistanceLocalStorageMiddleware: Middleware = (store) => (next) => (action) => {
 	next(action);
@@ -9,7 +9,7 @@ const persistanceLocalStorageMiddleware: Middleware = (store) => (next) => (acti
 
 const syncWithDatabaseMiddleware: Middleware = store => next => action => {
 	const { type, payload } = action
-	const previousState = store.getState()
+	const previousState = store.getState() as RootState
 	next(action)
 
 	if (type === 'users/deleteUserById') { // <- eliminado un usuario
