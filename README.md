@@ -26,14 +26,14 @@ Curso para aprender **React** basado en proyectos.
 
 | Número | Proyecto | Código | Web |
 | --- | --- | --- | --- |
-| `01` | Twitter Follow Card | [Ver código fuente](projects/01-twitter-follow-card/) | [Ver web](https://midu-react-01.surge.sh) |
-| `02` | Tic Tac Toe | [Ver código fuente](projects/02-tic-tac-toe/) | [Ver web](https://midu-react-02.surge.sh) |
-| `03` | Mouse Follower | [Ver código fuente](projects/03-mouse-follower) | [Ver web](https://midu-react-03.surge.sh) |
-| `04` | Prueba técnica con Promesas, fetching y testing E2E | [Ver código fuente](projects/04-react-prueba-tecnica) | [Ver web](#) |
-| `05` | Prueba técnica con formularios, buscador utilizando una API | [Ver código fuente](projects/05-react-buscador-peliculas) | [Ver web](#) |
-| `06` | Creación de un ecommerce con carrito de compras | [Ver código fuente](projects/06-shopping-cart) | [Ver web](#) |
-| `07` | Creación de un React Router desde cero | [Ver código fuente](projects/07-midu-router) | [Ver web](#) |
-| `08` | Todo App con TypeScript y animaciones | [Ver código fuente](projects/08-todo-app-typescript) | [Ver web](#) |
-| `09` | Crear un Google Translate con ChatGPT y TypeScript | [Ver código fuente](projects/09-google-translate-clone/) | [Ver web](#) |
-| `10` | Crear un CRUD con Redux Toolkit y TypeScript | [Ver código fuente](projects/10-crud-redux/) | [Ver web](#) |
-| `11` | Prueba Técnica con TypeScript y React | [Ver código fuente](projects/11-typescript-prueba-tecnica/) | [Ver web](#) |
+| `01` | Twitter Follow Card | [Ver](projects/01-twitter-follow-card/) | [Ir](https://midu-react-01.surge.sh) |
+| `02` | Tic Tac Toe | [Ver](projects/02-tic-tac-toe/) | [Ir](https://midu-react-02.surge.sh) |
+| `03` | Mouse Follower | [Ver](projects/03-mouse-follower) | [Ir](https://midu-react-03.surge.sh) |
+| `04` | Prueba técnica con Promesas, fetching y testing E2E | [Ver](projects/04-react-prueba-tecnica) | [Ir](#) |
+| `05` | Prueba técnica con formularios, buscador utilizando una API | [Ver](projects/05-react-buscador-peliculas) | [Ir](#) |
+| `06` | Creación de un ecommerce con carrito de compras | [Ver](projects/06-shopping-cart) | [Ir](#) |
+| `07` | Creación de un React Router desde cero | [Ver](projects/07-midu-router) | [Ir](#) |
+| `08` | Todo App con TypeScript y animaciones | [Ver](projects/08-todo-app-typescript) | [Ir](#) |
+| `09` | Crear un Google Translate con ChatGPT y TypeScript | [Ver](projects/09-google-translate-clone/) | [Ir](#) |
+| `10` | Crear un CRUD con Redux Toolkit y TypeScript | [Ver](projects/10-crud-redux/) | [Ir](#) |
+| `11` | Prueba Técnica con TypeScript y React | [Ver](projects/11-typescript-prueba-tecnica/) | [Ir](#) |
