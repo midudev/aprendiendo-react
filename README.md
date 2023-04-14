@@ -22,16 +22,17 @@ Curso para aprender **React** basado en proyectos.
 - 10: [React Redux Toolkit + Rome Tools](https://www.twitch.tv/videos/1785418662)
 - 11: [Prueba técnica de React con TypeScript](https://www.twitch.tv/videos/1792623213)
 
-## ⌨️ Proyectos
+## ⌨️ Proyectos y código
 
-- 01: [Twitter Follow Card](projects/01-twitter-follow-card/)
-- 02: [Tic Tac Toe](projects/02-tic-tac-toe/)
-- 03: [Mouse Follower](projects/03-mouse-follower)
-- 04: [Prueba técnica con Promesas, fetching y testing E2E](projects/04-react-prueba-tecnica)
-- 05: [Prueba técnica con formularios, buscador utilizando una API](projects/05-react-buscador-peliculas)
-- 06: [Creación de un ecommerce con carrito de compras](projects/06-shopping-cart)
-- 07: [Creación de un React Router desde cero](projects/07-midu-router)
-- 08: [Crear un Google Translate con ChatGPT y TypeScript](projects/08-google-translate-clone/)
-- 09: [Crear un CRUD con Redux Toolkit y TypeScript](projects/09-crud-redux/)
-- 10: [Prueba Técnica con TypeScript y React](projects/10-typescript-prueba-tecnica/)
-- 11: Próximamente en https://twitch.tv/midudev
+| Número | Proyecto | Código | Web |
+| 01 | Twitter Follow Card | [Ver el código](projects/01-twitter-follow-card/) | Link |
+| 02 | Tic Tac Toe | [Ver el código](projects/02-tic-tac-toe/) | Link |
+| 03 | Mouse Follower | [Ver el código](projects/03-mouse-follower) | Link |
+| 04 | Prueba técnica con Promesas, fetching y testing E2E | [Ver el código](projects/04-react-prueba-tecnica) | Link |
+| 05 | Prueba técnica con formularios, buscador utilizando una API | [Ver el código](projects/05-react-buscador-peliculas) | Link |
+| 06 | Creación de un ecommerce con carrito de compras | [Ver el código](projects/06-shopping-cart) | Link |
+| 07 | Creación de un React Router desde cero | [Ver el código](projects/07-midu-router) | Link |
+| 08 | Crear un Google Translate con ChatGPT y TypeScript | [Ver el código](projects/08-google-translate-clone/) | Link |
+| 09 | Crear un CRUD con Redux Toolkit y TypeScript | [Ver el código](projects/09-crud-redux/) | Link |
+| 10 | Prueba Técnica con TypeScript y React | [Ver el código](projects/10-typescript-prueba-tecnica/) | Link |
+| 11 | Próximamente en https://twitch.tv/midudev | | |
