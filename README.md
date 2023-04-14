@@ -25,6 +25,7 @@ Curso para aprender **React** basado en proyectos.
 ## ⌨️ Proyectos y código
 
 | Número | Proyecto | Código | Web |
+| --- | --- | --- | --- |
 | 01 | Twitter Follow Card | [Ver el código](projects/01-twitter-follow-card/) | Link |
 | 02 | Tic Tac Toe | [Ver el código](projects/02-tic-tac-toe/) | Link |
 | 03 | Mouse Follower | [Ver el código](projects/03-mouse-follower) | Link |
