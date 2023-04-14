@@ -36,4 +36,3 @@ Curso para aprender **React** basado en proyectos.
 | 08 | Crear un Google Translate con ChatGPT y TypeScript | [Ver el código](projects/08-google-translate-clone/) | Link |
 | 09 | Crear un CRUD con Redux Toolkit y TypeScript | [Ver el código](projects/09-crud-redux/) | Link |
 | 10 | Prueba Técnica con TypeScript y React | [Ver el código](projects/10-typescript-prueba-tecnica/) | Link |
-| 11 | Próximamente en https://twitch.tv/midudev | | |
