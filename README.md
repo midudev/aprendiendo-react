@@ -22,7 +22,7 @@ Curso para aprender **React** basado en proyectos.
 - 10: [React Redux Toolkit + Rome Tools](https://www.twitch.tv/videos/1785418662)
 - 11: [Prueba técnica de React con TypeScript](https://www.twitch.tv/videos/1792623213)
 
-## ⌨️ Proyectos y código
+## ⌨️ Proyectos de React con código
 
 | Número | Proyecto | Código | Web |
 | --- | --- | --- | --- |
