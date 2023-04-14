@@ -20,6 +20,7 @@ Curso para aprender **React** basado en proyectos.
 - 08: [React + TypeScript (Día 01): props y state)](https://www.twitch.tv/videos/1752654224?filter=archives&sort=time)
 - 09: [React + TypeScript + ChatGPT](https://www.twitch.tv/videos/1779023294)
 - 10: [React Redux Toolkit + Rome Tools](https://www.twitch.tv/videos/1785418662)
+- 11: [Prueba técnica de React con TypeScript](https://www.twitch.tv/videos/1792623213)
 
 ## ⌨️ Proyectos
 
@@ -32,4 +33,5 @@ Curso para aprender **React** basado en proyectos.
 - 07: [Creación de un React Router desde cero](projects/07-midu-router)
 - 08: [Crear un Google Translate con ChatGPT y TypeScript](projects/08-google-translate-clone/)
 - 09: [Crear un CRUD con Redux Toolkit y TypeScript](projects/09-crud-redux/)
-- 10: Próximamente en https://twitch.tv/midudev
+- 10: [Prueba Técnica con TypeScript y React](projects/10-typescript-prueba-tecnica/)
+- 11: Próximamente en https://twitch.tv/midudev
