@@ -1,4 +1,4 @@
-# Prueba técnica con TypeScript y React
+# Prueba técnica con TypeScript y React
 
 Esto es una prueba técnica de una empresa europea para un sueldo de 55000 €/anuales.
 
