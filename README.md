@@ -21,6 +21,7 @@ Curso para aprender **React** basado en proyectos.
 - 09: [React + TypeScript + ChatGPT](https://www.twitch.tv/videos/1779023294)
 - 10: [React Redux Toolkit + Rome Tools](https://www.twitch.tv/videos/1785418662)
 - 11: [Prueba técnica de React con TypeScript](https://www.twitch.tv/videos/1792623213)
+- 12: [Paginación, Infinite Scroll y React Query](https://www.twitch.tv/videos/1797984028)
 
 ## ⌨️ Proyectos de React con código
 
@@ -37,3 +38,4 @@ Curso para aprender **React** basado en proyectos.
 | `09` | Crear un Google Translate con ChatGPT y TypeScript | [Ver](projects/09-google-translate-clone/) | [Visitar](https://midu-react-09.surge.sh) |
 | `10` | Crear un CRUD con Redux Toolkit y TypeScript | [Ver](projects/10-crud-redux/) | [Visitar](https://midu-react-10.surge.sh) |
 | `11` | Prueba Técnica con TypeScript y React | [Ver](projects/11-typescript-prueba-tecnica/) | [Visitar](https://midu-react-11.surge.sh) |
+| `12` | Paginación, Infinite Scroll y React Query | [Ver](projects/12-COMMENTS-REACT-QUERY/) |  |
