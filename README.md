@@ -37,3 +37,5 @@ Curso para aprender **React** basado en proyectos.
 | `09` | Crear un Google Translate con ChatGPT y TypeScript | [Ver](projects/09-google-translate-clone/) | [Visitar](https://midu-react-09.surge.sh) |
 | `10` | Crear un CRUD con Redux Toolkit y TypeScript | [Ver](projects/10-crud-redux/) | [Visitar](https://midu-react-10.surge.sh) |
 | `11` | Prueba Técnica con TypeScript y React | [Ver](projects/11-typescript-prueba-tecnica/) | [Visitar](https://midu-react-11.surge.sh) |
+| `11b` | Prueba Técnica con TypeScript y React con React Query | [Ver](projects/11b-typescript-prueba-tecnica-with-react-query/) | [Visitar](https://midu-react-11.surge.sh) |
+| `12` | Sistema de comentarios con React Query | [Ver](projects/12-comments-react-query) | [Visitar](https://midu-react-11.surge.sh) |
