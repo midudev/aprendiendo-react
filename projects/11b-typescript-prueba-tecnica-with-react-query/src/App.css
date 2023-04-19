@@ -1,0 +1,26 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+}
+
+.table--showColors tr:nth-child(odd) {
+  background: #333;
+}
+
+.table--showColors tr:nth-child(even) {
+  background: #555;
+}
+
+header {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 48px;
+  justify-content: center;
+  align-items: center;
+}
+
+.pointer {
+  cursor: crosshair;
+}
