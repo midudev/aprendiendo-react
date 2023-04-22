@@ -5,7 +5,7 @@ interface Props {
   title: string
   completed: boolean
   setCompleted: (id: string, completed: boolean) => void
-  setTitle: (params: { id: string, title: string }) => void
+  setTitle: (params: { id: string; title: string }) => void
   isEditing: string
   setIsEditing: (completed: string) => void
   removeTodo: (id: string) => void
@@ -19,7 +19,7 @@ export const Todo: React.FC<Props> = ({
   setTitle,
   removeTodo,
   isEditing,
-  setIsEditing
+  setIsEditing,
 }) => {
   const [editedTitle, setEditedTitle] = useState(title)
   const inputEditTitle = useRef<HTMLInputElement>(null)
@@ -54,18 +54,31 @@ export const Todo: React.FC<Props> = ({
           className='toggle'
           checked={completed}
           type='checkbox'
-          onChange={(e) => { setCompleted(id, e.target.checked) }}
+          onChange={(e) => {
+            setCompleted(id, e.target.checked)
+          }}
         />
         <label>{title}</label>
-        <button className='destroy' onClick={() => { removeTodo(id) }}></button>
+        <button
+          className='destroy'
+          onClick={() => {
+            removeTodo(id)
+          }}
+        ></button>
       </div>
 
       <input
         className='edit'
         value={editedTitle}
-        onChange={(e) => { setEditedTitle(e.target.value) }}
+        onChange={(e) => {
+          setEditedTitle(e.target.value)
+        }}
         onKeyDown={handleKeyDown}
-        onBlur={() => { setIsEditing('') }}
+        onBlur={() => {
+          // Cancela el editar el título del todo cuando el elemento pierde foco
+          setEditedTitle(title)
+          setIsEditing('')
+        }}
         ref={inputEditTitle}
       />
     </>
