@@ -31,7 +31,7 @@ const Question = ({ info }: { info: QuestionType }) => {
   }
 
   return (
-    <Card variant='outlined' sx={{ bgcolor: '#222', p: 2, textAlign: 'left', marginTop: 4 }}>
+    <Card variant='outlined' sx={{ bgcolor: '#222', p: 2, textAlign: 'left', marginTop: 4, maxWidth: '100%' }}>
 
       <Typography variant='h5'>
         {info.question}
