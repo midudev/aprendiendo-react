@@ -23,6 +23,8 @@ Curso para aprender **React** basado en proyectos.
 - 09: [React + TypeScript + ChatGPT](https://www.twitch.tv/videos/1779023294)
 - 10: [React Redux Toolkit + Rome Tools](https://www.twitch.tv/videos/1785418662)
 - 11: [Prueba técnica de React con TypeScript](https://www.twitch.tv/videos/1792623213)
+- 12: [React Query + Paginación + Infinite Scroll](https://www.twitch.tv/videos/1797984028)
+- 13: [JavaScript Quiz con Zustand + TypeScript desde cero](https://www.twitch.tv/videos/1804141689)
 
 ## ⌨️ Proyectos de React con código
 
@@ -41,3 +43,4 @@ Curso para aprender **React** basado en proyectos.
 | `11` | Prueba Técnica con TypeScript y React | [Ver](projects/11-typescript-prueba-tecnica/) | [Visitar](https://midu-react-11.surge.sh) |
 | `11b` | Prueba Técnica con TypeScript y React con React Query | [Ver](projects/11b-typescript-prueba-tecnica-with-react-query/) | [Visitar](https://midu-react-11.surge.sh) |
 | `12` | Sistema de comentarios con React Query | [Ver](projects/12-comments-react-query) | [Visitar](https://midu-react-11.surge.sh) |
+| `13` | JavaScript Quiz con Zustand y TypeScript | [Ver](projects/13-javascript-quizz-con-zustand/) | [Visitar](https://midu-react-13.surge.sh) |
