@@ -1,6 +1,6 @@
 import './App.css'
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
-import { getComments, type CommentWithId, postComment } from './service/comments'
+import { getComments, type CommentWithId, type Comment, postComment } from './service/comments'
 import { FormInput, FormTextArea } from './components/Form'
 import { Results } from './components/Results'
 
@@ -20,7 +20,7 @@ function App () {
       // por si tenemos que hacer un rollback
       const previousComments = queryClient.getQueryData(['comments'])
 
-      queryClient.setQueryData(['comments'], (oldData?: Comment[]) => {
+      queryClient.setQueryData(['comments'], (oldData?: Comment[]): Comment[] => {
         const newCommentToAdd = structuredClone(newComment)
         newCommentToAdd.preview = true
 
