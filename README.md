@@ -10,6 +10,8 @@ Curso para aprender **React** basado en proyectos.
 
 ## 📹 Videos con las clases
 
+**Por favor, no me escribas preguntando cuándo subiré los vídeos. Todos los días estoy creando contenido gratis. Me encantaría tener más tiempo para hacer más cosas, pero no doy para más. Lo subiré cuando pueda. Si quieres ayudarme, puedes suscribirte a mi canal de [Twitch](https://twitch.tv/midudev) o ser [mecenas de Patreon](https://patreon.com/midudev) para que pueda contratar editores que me ayuden con esto.**
+
 - 01: [Introducción a React](https://www.youtube.com/watch?v=7iobxzd_2wY)
 - 02: [React Hooks: useState y useEffect](https://www.youtube.com/watch?v=qkzcjwnueLA&feature=youtu.be)
 - 03: [Prueba técnica con lo aprendido](https://www.youtube.com/watch?v=XYpadB4VadY&feature=youtu.be)
