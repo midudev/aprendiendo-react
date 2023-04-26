@@ -10,7 +10,10 @@ interface State {
   selectAnswer: (questionId: number, answerIndex: number) => void
   goNextQuestion: () => void
   goPreviousQuestion: () => void
+  reset: () => void
 }
+
+const API_URL = import.meta.env.PROD ? 'https://midu-react-13.surge.sh/' : 'http://localhost:3000'
 
 export const useQuestionsStore = create<State>()(devtools(persist((set, get) => {
   return {
@@ -19,7 +22,7 @@ export const useQuestionsStore = create<State>()(devtools(persist((set, get) => 
     currentQuestion: 0,
 
     fetchQuestions: async (limit: number) => {
-      const res = await fetch('http://localhost:5173/data.json')
+      const res = await fetch(`${API_URL}/data.json`)
       const json = await res.json()
 
       const questions = json.sort(() => Math.random() - 0.5).slice(0, limit)
