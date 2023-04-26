@@ -43,4 +43,4 @@ Curso para aprender **React** basado en proyectos.
 | `11` | Prueba Técnica con TypeScript y React | [Ver](projects/11-typescript-prueba-tecnica/) | [Visitar](https://midu-react-11.surge.sh) |
 | `11b` | Prueba Técnica con TypeScript y React con React Query | [Ver](projects/11b-typescript-prueba-tecnica-with-react-query/) | [Visitar](https://midu-react-11.surge.sh) |
 | `12` | Sistema de comentarios con React Query | [Ver](projects/12-comments-react-query) | [Visitar](https://midu-react-11.surge.sh) |
-| `13` | JavaScript Quiz con Zustand y TypeScript | [Ver](projects/13-javascript-quizz-con-zustand/) | [Visitar](https://midu-react-13.surge.sh) |
+| `13` | JavaScript Quiz con Zustand y TypeScript | [Ver](projects/13-javascript-quiz-con-zustand/) | [Visitar](https://midu-react-13.surge.sh) |
