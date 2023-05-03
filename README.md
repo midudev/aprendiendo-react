@@ -17,7 +17,7 @@ Curso para aprender **React** basado en proyectos.
 - 03: [Prueba técnica con lo aprendido](https://www.youtube.com/watch?v=XYpadB4VadY&feature=youtu.be)
 - 04: [Fetching de datos y Custom Hooks](https://youtu.be/x-LcbVw99o8)
 - 05: [React Hooks: useRef, useMemo, useCallback](https://youtu.be/GOEiMwDJ3lc)
-- 06: React Hooks: useContext, useReducer, useId: Pendiente de subir
+- 06: [React Hooks: useContext, useReducer, useId](https://www.youtube.com/watch?v=B9tDYAZZxcE)
 - 07: React Router + Lazy Loading: Pendiente de subir
 - 08: React + TypeScript (Día 01): props y state: Pendiente de subir
 - 09: [React + TypeScript + ChatGPT](https://www.twitch.tv/videos/1779023294)
