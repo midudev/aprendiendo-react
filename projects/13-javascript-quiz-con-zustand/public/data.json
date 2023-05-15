@@ -88,7 +88,7 @@
     "question": "¿Cuál es el resultado de la siguiente expresión?",
     "code": "'2' + 3 * 4",
     "answers": [
-      "14",
+      "212",
       "20",
       "26",
       "Error"
@@ -489,7 +489,7 @@
       "'2foobar'",
       "Error"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 43,
