@@ -1,4 +1,4 @@
-# Crea un React Router desde cero
+# Crea un React Router desde cero
 
 - [x] Instalar el linter
 - [x] Crear una forma de hacer MPAs (Multiple Page Application)
