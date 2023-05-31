@@ -25,7 +25,7 @@ Curso para aprender **React** basado en proyectos.
 - 11: [Prueba técnica de React con TypeScript](https://www.twitch.tv/videos/1792623213)
 - 12: [React Query + Paginación + Infinite Scroll](https://www.twitch.tv/videos/1797984028)
 - 13: [JavaScript Quiz con Zustand + TypeScript desde cero](https://www.twitch.tv/videos/1804141689)
-- 14: [Hacker News con TypeScript + SWR](https://www.twitch.tv/videos/1804141689)
+- 14: [Hacker News con TypeScript + SWR](https://www.twitch.tv/videos/1834096985)
 
 ## ⌨️ Proyectos de React con código
 
