@@ -17,9 +17,9 @@ Curso para aprender **React** basado en proyectos.
 - 03: [Prueba técnica con lo aprendido](https://www.youtube.com/watch?v=XYpadB4VadY&feature=youtu.be)
 - 04: [Fetching de datos y Custom Hooks](https://youtu.be/x-LcbVw99o8)
 - 05: [React Hooks: useRef, useMemo, useCallback](https://youtu.be/GOEiMwDJ3lc)
-- 06: React Hooks: useContext, useReducer, useId: Pendiente de subir
-- 07: React Router + Lazy Loading: Pendiente de subir
-- 08: [React + TypeScript (Día 01): props y state)](https://www.twitch.tv/videos/1752654224?filter=archives&sort=time)
+- 06: [React Hooks: useContext, useReducer, useId](https://www.youtube.com/watch?v=B9tDYAZZxcE)
+- 07: [React Router + Lazy Loading](https://www.youtube.com/watch?v=K2NcGYajvY4)
+- 08: React + TypeScript (Día 01): props y state: Pendiente de subir
 - 09: [React + TypeScript + ChatGPT](https://www.twitch.tv/videos/1779023294)
 - 10: [React Redux Toolkit + Rome Tools](https://www.twitch.tv/videos/1785418662)
 - 11: [Prueba técnica de React con TypeScript](https://www.twitch.tv/videos/1792623213)
@@ -43,6 +43,6 @@ Curso para aprender **React** basado en proyectos.
 | `10` | Crear un CRUD con Redux Toolkit y TypeScript | [Ver](projects/10-crud-redux/) | [Visitar](https://midu-react-10.surge.sh) |
 | `11` | Prueba Técnica con TypeScript y React | [Ver](projects/11-typescript-prueba-tecnica/) | [Visitar](https://midu-react-11.surge.sh) |
 | `11b` | Prueba Técnica con TypeScript y React con React Query | [Ver](projects/11b-typescript-prueba-tecnica-with-react-query/) | [Visitar](https://midu-react-11.surge.sh) |
-| `12` | Sistema de comentarios con React Query | [Ver](projects/12-comments-react-query) | [Visitar](https://midu-react-11.surge.sh) |
+| `12` | Sistema de comentarios con React Query | [Ver](projects/12-comments-react-query) | [Visitar](https://midu-react-12.surge.sh) |
 | `13` | JavaScript Quiz con Zustand y TypeScript | [Ver](projects/13-javascript-quiz-con-zustand/) | [Visitar](https://midu-react-13.surge.sh) |
 | `14` | Hacker News con TypeScript y SWR | [Ver](projects/14-hacker-news-prueba-tecnica) | [Visitar](https://midu-react-14.surge.sh) |

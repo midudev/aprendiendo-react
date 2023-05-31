@@ -1,4 +1,4 @@
-# Crea un React Router desde cero
+# Crea un React Router desde cero
 
 - [x] Instalar el linter
 - [x] Crear una forma de hacer MPAs (Multiple Page Application)
@@ -11,6 +11,6 @@
 - [x] Componente <Route /> para hacerlo declarativo
 - [x] Lazy Loading de las rutas
 - [x] Hacer un i18n con las rutas
-- [ ] Testing
-- [ ] Publicar el paquete en NPM
+- [x] Testing
+- [x] Publicar el paquete en NPM
 
