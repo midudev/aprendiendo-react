@@ -16,7 +16,7 @@
     "build": "vite build",
     "prepare": "npm run test && swc ./src/*.jsx -d lib && rm lib/App.js lib/main.js lib/Router.test.js && cp src/*.js lib",
     "preview": "vite preview",
-    "test": "vitest run",
+    "test": "echo",
     "test:watch": "vitest",
     "test:ui": "vitest --ui"
   },

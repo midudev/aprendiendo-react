@@ -25,6 +25,7 @@ Curso para aprender **React** basado en proyectos.
 - 11: [Prueba técnica de React con TypeScript](https://www.twitch.tv/videos/1792623213)
 - 12: [React Query + Paginación + Infinite Scroll](https://www.twitch.tv/videos/1797984028)
 - 13: [JavaScript Quiz con Zustand + TypeScript desde cero](https://www.twitch.tv/videos/1804141689)
+- 14: [Hacker News con TypeScript + SWR](https://www.twitch.tv/videos/1804141689)
 
 ## ⌨️ Proyectos de React con código
 
@@ -44,3 +45,4 @@ Curso para aprender **React** basado en proyectos.
 | `11b` | Prueba Técnica con TypeScript y React con React Query | [Ver](projects/11b-typescript-prueba-tecnica-with-react-query/) | [Visitar](https://midu-react-11.surge.sh) |
 | `12` | Sistema de comentarios con React Query | [Ver](projects/12-comments-react-query) | [Visitar](https://midu-react-11.surge.sh) |
 | `13` | JavaScript Quiz con Zustand y TypeScript | [Ver](projects/13-javascript-quiz-con-zustand/) | [Visitar](https://midu-react-13.surge.sh) |
+| `14` | Hacker News con TypeScript y SWR | [Ver](projects/14-hacker-news-prueba-tecnica) | [Visitar](https://midu-react-14.surge.sh) |
