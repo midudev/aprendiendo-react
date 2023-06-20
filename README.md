@@ -19,11 +19,11 @@ Curso para aprender **React** basado en proyectos.
 - 05: [React Hooks: useRef, useMemo, useCallback](https://youtu.be/GOEiMwDJ3lc)
 - 06: [React Hooks: useContext, useReducer, useId](https://www.youtube.com/watch?v=B9tDYAZZxcE)
 - 07: [React Router + Lazy Loading](https://www.youtube.com/watch?v=K2NcGYajvY4)
-- 08: React + TypeScript (Día 01): props y state: Pendiente de subir
-- 09: [React + TypeScript + ChatGPT](https://www.twitch.tv/videos/1779023294)
-- 10: [React Redux Toolkit + Rome Tools](https://www.twitch.tv/videos/1785418662)
-- 11: [Prueba técnica de React con TypeScript](https://www.twitch.tv/videos/1792623213)
-- 12: [React Query + Paginación + Infinite Scroll](https://www.twitch.tv/videos/1797984028)
+- 08: [React + TypeScript (Día 01): props y state](https://www.youtube.com/watch?v=4lAYfsq-2TE)
+- 09: React + TypeScript + ChatGPT - Pendiente de subir
+- 10: React Redux Toolkit + Rome Tools - Pendiente de subir
+- 11: Prueba técnica de React con TypeScript - Pendiente de subir
+- 12: React Query + Paginación + Infinite Scroll - Pendiente de subir
 - 13: [JavaScript Quiz con Zustand + TypeScript desde cero](https://www.twitch.tv/videos/1804141689)
 - 14: [Hacker News con TypeScript + SWR](https://www.twitch.tv/videos/1834096985)
 
