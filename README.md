@@ -20,7 +20,7 @@ Curso para aprender **React** basado en proyectos.
 - 06: [React Hooks: useContext, useReducer, useId](https://www.youtube.com/watch?v=B9tDYAZZxcE)
 - 07: [React Router + Lazy Loading](https://www.youtube.com/watch?v=K2NcGYajvY4)
 - 08: [React + TypeScript (Día 01): props y state](https://www.youtube.com/watch?v=4lAYfsq-2TE)
-- 09: React + TypeScript + ChatGPT - Pendiente de subir
+- 09: [React + TypeScript + ChatGPT - Clon de Google Translate](https://www.youtube.com/watch?v=kZhabulNCUc)
 - 10: React Redux Toolkit + Rome Tools - Pendiente de subir
 - 11: Prueba técnica de React con TypeScript - Pendiente de subir
 - 12: React Query + Paginación + Infinite Scroll - Pendiente de subir
