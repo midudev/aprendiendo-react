@@ -21,11 +21,11 @@ Curso para aprender **React** basado en proyectos.
 - 07: [React Router + Lazy Loading](https://www.youtube.com/watch?v=K2NcGYajvY4)
 - 08: [React + TypeScript (Día 01): props y state](https://www.youtube.com/watch?v=4lAYfsq-2TE)
 - 09: [React + TypeScript + ChatGPT - Clon de Google Translate](https://www.youtube.com/watch?v=kZhabulNCUc)
-- 10: React Redux Toolkit + Rome Tools - Pendiente de subir
-- 11: Prueba técnica de React con TypeScript - Pendiente de subir
+- 10: [React Redux Toolkit + Rome Tools](https://www.youtube.com/watch?v=bEEjuwujbbU)
+- 11: [Prueba técnica de React con TypeScript](https://www.youtube.com/watch?v=mNJOWXc83Y4)
 - 12: React Query + Paginación + Infinite Scroll - Pendiente de subir
-- 13: [JavaScript Quiz con Zustand + TypeScript desde cero](https://www.twitch.tv/videos/1804141689)
-- 14: [Hacker News con TypeScript + SWR](https://www.twitch.tv/videos/1834096985)
+- 13: JavaScript Quiz con Zustand + TypeScript desde cero  - Pendiente de subir
+- 14: Hacker News con TypeScript + SWR - Pendiente de subir
 
 ## ⌨️ Proyectos de React con código
 
