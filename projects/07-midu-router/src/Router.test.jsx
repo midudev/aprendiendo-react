@@ -63,8 +63,8 @@ describe('Router', () => {
     )
 
     // Click on the link
-    const button = screen.getByText(/Go to About/)
-    fireEvent.click(button)
+    const anchor = screen.getByText(/Go to About/)
+    fireEvent.click(anchor)
 
     const aboutTitle = await screen.findByText('About')
 
