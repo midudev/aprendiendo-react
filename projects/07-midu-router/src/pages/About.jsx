@@ -1,4 +1,4 @@
-import { Link } from '../Link.jsx'
+import { Link } from '../components/Link'
 
 const i18n = {
   es: {
