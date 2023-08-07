@@ -23,7 +23,7 @@ Curso para aprender **React** basado en proyectos.
 - 09: [React + TypeScript + ChatGPT - Clon de Google Translate](https://www.youtube.com/watch?v=kZhabulNCUc)
 - 10: [React Redux Toolkit + Rome Tools](https://www.youtube.com/watch?v=bEEjuwujbbU)
 - 11: [Prueba técnica de React con TypeScript](https://www.youtube.com/watch?v=mNJOWXc83Y4)
-- 12: React Query + Paginación + Infinite Scroll - Pendiente de subir
+- 12: [React Query + Paginación + Infinite Scroll](https://www.youtube.com/watch?v=WKfVjQUa6nE)
 - 13: JavaScript Quiz con Zustand + TypeScript desde cero  - Pendiente de subir
 - 14: Hacker News con TypeScript + SWR - Pendiente de subir
 
