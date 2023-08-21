@@ -12,10 +12,9 @@ function useSearch () {
   useEffect(() => {
     if (isFirstInput.current) {
       isFirstInput.current = search === ''
-      return
     }
 
-    if (search === '') {
+    if (search === '' && !isFirstInput.current) {
       setError('No se puede buscar una película vacía')
       return
     }
