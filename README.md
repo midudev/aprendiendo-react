@@ -24,7 +24,7 @@ Curso para aprender **React** basado en proyectos.
 - 10: [React Redux Toolkit + Rome Tools](https://www.youtube.com/watch?v=bEEjuwujbbU)
 - 11: [Prueba técnica de React con TypeScript](https://www.youtube.com/watch?v=mNJOWXc83Y4)
 - 12: [React Query + Paginación + Infinite Scroll](https://www.youtube.com/watch?v=WKfVjQUa6nE)
-- 13: JavaScript Quiz con Zustand + TypeScript desde cero  - Pendiente de subir
+- 13: [JavaScript Quiz con Zustand + TypeScript desde cero](https://www.youtube.com/watch?v=p2wF2wRjcN0)
 - 14: Hacker News con TypeScript + SWR - Pendiente de subir
 
 ## ⌨️ Proyectos de React con código
