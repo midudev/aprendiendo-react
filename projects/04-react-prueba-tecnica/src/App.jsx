@@ -17,7 +17,7 @@ export function App () {
       <button onClick={handleClick}>Get new fact</button>
 
       {fact && <p>{fact}</p>}
-      {imageUrl && <img src={imageUrl} alt={`Image extracted using the first rhee words for ${fact}`} />}
+      {imageUrl && <img src={imageUrl} alt={`Image extracted using the first three words for ${fact}`} />}
     </main>
   )
 }
