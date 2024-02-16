@@ -51,6 +51,7 @@ function App () {
     if (newWinner) {
       confetti()
       setWinner(newWinner)
+      resetGameStorage()
     } else if (checkEndGame(newBoard)) {
       setWinner(false) // empate
     }
