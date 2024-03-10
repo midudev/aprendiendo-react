@@ -113,7 +113,6 @@ body {
 .winner .win {
   margin: 0 auto;
   width: fit-content;
-  border: 2px solid #eee;
   border-radius: 10px;
   display: flex;
   gap: 15px;
