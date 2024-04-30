@@ -4,7 +4,7 @@ import { useId } from 'react'
 import { CartIcon, ClearCartIcon } from './Icons.jsx'
 import { useCart } from '../hooks/useCart.js'
 
-function CartItem ({ thumbnail, price, title, quantity, addToCart }) {
+function CartItem ({ thumbnail, price, title, quantity, stock, addToCart }) {
   return (
     <li>
       <img
@@ -13,6 +13,7 @@ function CartItem ({ thumbnail, price, title, quantity, addToCart }) {
       />
       <div>
         <strong>{title}</strong> - ${price}
+        <p>stock: {stock}</p>
       </div>
 
       <footer>

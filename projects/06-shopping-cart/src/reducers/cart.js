@@ -39,21 +39,29 @@ const UPDATE_STATE_BY_ACTION = {
         { ...state[productInCartIndex], quantity: state[productInCartIndex].quantity + 1 },
         ...state.slice(productInCartIndex + 1)
       ]
-
-      updateLocalStorage(newState)
-      return newState
-    }
-
-    const newState = [
-      ...state,
-      {
-        ...action.payload, // product
-        quantity: 1
+      if (state[productInCartIndex].quantity < state[productInCartIndex].stock) {
+        updateLocalStorage(newState);
+        return newState
+      } else {
+        alert("¡El producto no tiene más stock disponible!");
+        return state
       }
-    ]
+    } else if (action.payload.stock > 0) {
+      console.log("¡Producto agregado al carrito!");
+      const newState = [
+        ...state,
+        {
+          ...action.payload,
+          quantity: 1
+        }
+      ];
 
     updateLocalStorage(newState)
     return newState
+    } else {
+    alert("¡Producto sin stock!");
+    return state;
+    }
   },
   [CART_ACTION_TYPES.REMOVE_FROM_CART]: (state, action) => {
     const { id } = action.payload
