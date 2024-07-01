@@ -11,4 +11,9 @@ export default [
   pluginJs.configs.recommended,
   ...fixupConfigRules(pluginReactConfig),
   ...fixupConfigRules(jsxRuntimeConfig),
+  {
+    rules: {
+      "react/prop-types": [0],
+    },
+  },
 ];
