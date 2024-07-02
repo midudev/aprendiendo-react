@@ -1,6 +1,4 @@
 const API_KEY = "35a0a289";
-
-// fetching de datos
 export function searchMovies(search) {
   if (search === "") return null;
 
@@ -9,7 +7,6 @@ export function searchMovies(search) {
     .then((json) => {
       const movies = json?.Search;
 
-      // Evita usar el contrato de la API
       const mappedMovies = movies?.map((movie) => ({
         id: movie.imdbID,
         title: movie.Title,
@@ -19,7 +16,7 @@ export function searchMovies(search) {
 
       return mappedMovies;
     })
-    .catch(() => {
-      throw new Error("Error searching movies");
+    .catch((e) => {
+      throw new Error(e.message);
     });
 }
