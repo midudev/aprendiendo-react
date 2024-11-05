@@ -70,7 +70,7 @@ function App() {
               borderColor: error ? 'red' : 'transparent',
             }}
             onChange={handleChange}
-            value={search}
+            value={search ?? ''}
             name='query'
             placeholder='Avengers, Star Wars, The Matrix...'
           />
